@@ -4,3 +4,5 @@ This file now contains text
 I can edit this file here too
 
 And I can edit it here again in Nano
+
+Now I've edited it on GitHub!
